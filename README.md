@@ -19,5 +19,5 @@ bash eval.sh
 ````
 
 # Output Screenshot
-![image]()
+![image](https://github.com/Abhishek-Aditya-bs/Scene-Text-Detection-and-Recognition/blob/main/screenshot.png)
 
